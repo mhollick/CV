@@ -55,7 +55,7 @@ Experience
 <table cellspacing="0" cellpadding="0" border="0" style="width:100%">
   <tr>
     <td><b>BBC Worldwide</b></td>
-    <td text-align: right>December 2014 - Present</td>
+    <td text-align: right>December 2014 - July 2015</td>
   </tr>
   <tr>
     <td>Web Operations Specialist</td>

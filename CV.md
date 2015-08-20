@@ -6,7 +6,6 @@ matthew@mayan-it.co.uk</br>
 
 #Overview
 
-
 A computer systems professional with extensive experience on Linux, UNIX
 and Microsoft environments. Intending to continue working with
 innovative computer technology, enable business driven IT solutions and
@@ -30,6 +29,27 @@ languages including Python and Bash.
 
 Experience
 ----------
+
+<table cellspacing="0" cellpadding="0" border="0" style="width:100%">
+  <tr>
+    <td><b>Eurostar International</b></td>
+    <td text-align: right>July 2015 - present</td>
+  </tr>
+  <tr>
+    <td>Senior DevOps Engineer</td>
+    <td text-align: right>Kings Cross, London</td>
+  </tr>
+  <tr>
+    <td>DevOps team</td>
+  </tr>
+</table>
+
+-   Implementation of system monitoring infrastructure
+    -   Using Collectd, Statsd, Graphite and Grafana
+-   Implementation of log management infrastructure
+    -   Using Rsyslog, Logstash, Elasticsearch and Kibana
+-   Implementation of alerting system
+    -   Using Boson on Graphite and Elasticsearch
 
 
 <table cellspacing="0" cellpadding="0" border="0" style="width:100%">
@@ -59,6 +79,8 @@ Experience
     -   Documentation of current infrastructure and procedures
 -   Part of team creating major new ecommerce site
     -   Monitoring, dashboards and log management
+        -    Using Icinga2 (a fork of Nagios), collectd, Graphite and Grafana
+        -    Worked with Dataloop.io to provide business dashboarding
     -   Requirements capture for production
     -   Documentation
 -   Migration to AWS in progress
@@ -99,7 +121,7 @@ presence. I was brought into a small team to investigate potential
 replacements for the current monitoring solution. After evaluation of
 products from 3 vendors the decision was made to implement a monitoring
 solution from open source components along the lines of the work I had
-done at Liz Earle. Our team was later merged with another team to
+done at Liz Earle. Our team was later merged with another to
 provide a monitoring solution for the new CDN in development by BBC R&D.
 In this merger I took on more responsibilities working on a Log
 management infrastructure for the BBC’s considerable AWS estate using
